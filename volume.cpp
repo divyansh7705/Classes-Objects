@@ -31,3 +31,9 @@ int main() {
     cuboid.displayVolume(); 
     return 0;
 }
+/* OUTPUT:-
+Enter length: 40
+Enter width: 5
+Enter height: 10
+Volume of the cuboid is: 2000
+*/
