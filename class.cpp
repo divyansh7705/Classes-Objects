@@ -25,3 +25,9 @@ int main() {
 
     return 0;
 }
+/* OUTPUT:-
+Name:Divyansh
+Branch:ENTC-A2
+Subject: cds
+Year:2023-2027
+*/
