@@ -19,3 +19,6 @@ int main()
     s1.studyyear();
     return 0;
 }
+/* OUTPUT:-
+2023-2027
+*/
